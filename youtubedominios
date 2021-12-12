@@ -1,13 +1,6 @@
 This list blocks youtube domains
 
 
-
-||accountlinking-pa-clients6.youtube.com^
-||accounts.youtube.com^
-||admin-green-qa.youtube.com^
-||admin-py3.youtube.com^
-||admin-release-qa.youtube.com^
-||admin.youtube.com^
 ||ads.youtube.com^
 ||alt00019.youtube.com^
 ||alt003189.youtube.com^
@@ -1040,7 +1033,3 @@ This list blocks youtube domains
 ||www2.youtube.com^
 ||www3.youtube.com^
 ||www4.youtube.com^
-||youtube.com^
-||youtubei.youtube.com^
-||za.youtube.com^
-||zggc.youtube.com^
