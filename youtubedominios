@@ -2,14 +2,6 @@ This list blocks youtube domains
 
 
 ||ads.youtube.com^
-||cache1.c.youtube.com^
-||cache2.c.youtube.com^
-||cache3.c.youtube.com^
-||cache4.c.youtube.com^
-||cache5.c.youtube.com^
-||cache6.c.youtube.com^
-||cache7.c.youtube.com^
-||cache8.c.youtube.com^
 ||o-o---preferred---sn-o097znez---v22---lscache3.c.youtube.com^
 ||o-o---preferred---sn-qxo7sn7s---v22---lscache5.c.youtube.com^
 ||o-o---preferred---sn-vgqelnee---v10---lscache7.c.youtube.com^
@@ -900,26 +892,3 @@ This list blocks youtube domains
 ||v9.lscache8.c.youtube.com^
 ||v9.nonxt6.c.youtube.com^
 ||v9.nonxt8.c.youtube.com^
-||vr.youtube.com^
-||web-green-qa.youtube.com^
-||web-release-qa.youtube.com^
-||web1.nyc.youtube.com^
-||web46.youtube.com^
-||www.creatoracademy.youtube.com^
-||www.devicereport.youtube.com^
-||www.lifeinaday.youtube.com^
-||www.m.youtube.com^
-||www.streamingreport.youtube.com^
-||vr.youtube.com^
-||web-green-qa.youtube.com^
-||web-release-qa.youtube.com^
-||web1.nyc.youtube.com^
-||web46.youtube.com^
-||www.creatoracademy.youtube.com^
-||www.devicereport.youtube.com^
-||www.lifeinaday.youtube.com^
-||www.m.youtube.com^
-||www.streamingreport.youtube.com^
-||youtubei.youtube.com^
-||za.youtube.com^
-||zggc.youtube.com^
